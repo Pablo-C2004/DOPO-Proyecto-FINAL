@@ -1,0 +1,523 @@
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player1_idle.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player1_idle.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player1_walk.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player1_walk.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player2_idle.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player2_idle.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player2_walk.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player2_walk.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\foot.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\foot.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\ball.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\ball.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\goal_left.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\goal_left.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\goal_right.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\goal_right.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\grass.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\grass.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_meadow.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_meadow.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_cave.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_cave.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:17 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_desert.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_desert.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at bluej.runtime.ExecServer$3.lambda$run$1(ExecServer.java:892)
+	at bluej.runtime.ExecServer.runOnTargetThread(ExecServer.java:996)
+	at bluej.runtime.ExecServer$3.run(ExecServer.java:890)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player1_idle.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player1_idle.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player1_walk.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player1_walk.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player2_idle.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player2_idle.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player2_walk.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\player2_walk.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\foot.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\foot.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\ball.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\ball.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\goal_left.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\goal_left.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\goal_right.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\goal_right.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\grass.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\grass.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_meadow.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_meadow.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_cave.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_cave.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 07, 2026 4:01:30 P. M. domain.Log record
+GRAVE: java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_desert.png
+java.io.FileNotFoundException: D:\User\Desktop\DOPO\Proyecto Final\DopoSoccer\images\background_desert.png
+	at presentation.Sprites.load(Sprites.java:96)
+	at presentation.DOPOSoccerGUI.<init>(DOPOSoccerGUI.java:72)
+	at presentation.DOPOSoccerGUI.lambda$main$4(DOPOSoccerGUI.java:294)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 18, 2026 11:09:11 P. M. domain.Log record
+GRAVE: java.lang.IllegalArgumentException: Jugador inexistente: 3
+java.lang.IllegalArgumentException: Jugador inexistente: 3
+	at domain.DOPOSoccer.getPlayer(DOPOSoccer.java:442)
+	at domain.ExpertProfile.decide(ExpertProfile.java:14)
+	at domain.DOPOSoccer.update(DOPOSoccer.java:134)
+	at presentation.GameScreen.tick(GameScreen.java:144)
+	at presentation.GameScreen.lambda$new$0(GameScreen.java:73)
+	at java.desktop/javax.swing.Timer.fireActionPerformed(Timer.java:311)
+	at java.desktop/javax.swing.Timer$DoPostEvent.run(Timer.java:243)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 18, 2026 11:09:30 P. M. domain.Log record
+GRAVE: java.lang.IllegalArgumentException: Jugador inexistente: 3
+java.lang.IllegalArgumentException: Jugador inexistente: 3
+	at domain.DOPOSoccer.getPlayer(DOPOSoccer.java:442)
+	at domain.DOPOSoccer.setDirection(DOPOSoccer.java:151)
+	at domain.ClumsyProfile.decide(ClumsyProfile.java:24)
+	at domain.DOPOSoccer.update(DOPOSoccer.java:134)
+	at presentation.GameScreen.tick(GameScreen.java:144)
+	at presentation.GameScreen.lambda$new$0(GameScreen.java:73)
+	at java.desktop/javax.swing.Timer.fireActionPerformed(Timer.java:311)
+	at java.desktop/javax.swing.Timer$DoPostEvent.run(Timer.java:243)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 18, 2026 11:09:35 P. M. domain.Log record
+GRAVE: java.lang.IllegalArgumentException: Jugador inexistente: 3
+java.lang.IllegalArgumentException: Jugador inexistente: 3
+	at domain.DOPOSoccer.getPlayer(DOPOSoccer.java:442)
+	at domain.DefensiveProfile.decide(DefensiveProfile.java:10)
+	at domain.DOPOSoccer.update(DOPOSoccer.java:134)
+	at presentation.GameScreen.tick(GameScreen.java:144)
+	at presentation.GameScreen.lambda$new$0(GameScreen.java:73)
+	at java.desktop/javax.swing.Timer.fireActionPerformed(Timer.java:311)
+	at java.desktop/javax.swing.Timer$DoPostEvent.run(Timer.java:243)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 18, 2026 11:09:42 P. M. domain.Log record
+GRAVE: java.lang.IllegalArgumentException: Jugador inexistente: 3
+java.lang.IllegalArgumentException: Jugador inexistente: 3
+	at domain.DOPOSoccer.getPlayer(DOPOSoccer.java:442)
+	at domain.DOPOSoccer.setDirection(DOPOSoccer.java:151)
+	at domain.ClumsyProfile.decide(ClumsyProfile.java:24)
+	at domain.DOPOSoccer.update(DOPOSoccer.java:134)
+	at presentation.GameScreen.tick(GameScreen.java:144)
+	at presentation.GameScreen.lambda$new$0(GameScreen.java:73)
+	at java.desktop/javax.swing.Timer.fireActionPerformed(Timer.java:311)
+	at java.desktop/javax.swing.Timer$DoPostEvent.run(Timer.java:243)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+nov 26, 2026 6:32:45 P. M. domain.Log record
+SEVERE: java.io.StreamCorruptedException: invalid stream header: 6573746F
+java.io.StreamCorruptedException: invalid stream header: 6573746F
+	at java.base/java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:908)
+	at java.base/java.io.ObjectInputStream.<init>(ObjectInputStream.java:378)
+	at domain.DOPOSoccer.open(DOPOSoccer.java:280)
+	at Test.DOPOSoccerTest.shouldThrowExceptionWhenOpeningInvalidFile(DOPOSoccerTest.java:1026)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.runMain(JUnitCore.java:77)
+	at org.junit.runner.JUnitCore.main(JUnitCore.java:36)
+

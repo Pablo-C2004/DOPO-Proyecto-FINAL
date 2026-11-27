@@ -1,0 +1,19 @@
+Gráficos de DOPOSoccer
+======================
+
+Los sprites de esta carpeta (jugadores, pie, balón, arcos y césped) se tomaron
+de un paquete gratuito publicado en OpenGameArt.
+https://opengameart.org/content/background-12
+https://opengameart.org/content/head-soccer-football
+
+Cambios hechos para el proyecto:
+  - Las animaciones GIF de los jugadores se convirtieron a tiras PNG de cuadros
+    cuadrados de 112 x 112 (player1_idle, player1_walk, player2_idle, player2_walk).
+  - Los archivos se renombraron sin espacios.
+
+Fondos de los escenarios (background_meadow, background_cave, background_desert)
+
+Cambios hechos para el proyecto:
+  - Pradera y Cueva se exportaron desde las capas bg001 y bg002 del SVG a PNG de 1280 px de ancho.
+  - En el SVG, la capa del Desierto (bg003) solo tenía el suelo, así que se usó una imagen PNG
+    completa del mismo fondo, recortando 2 px de borde negro.
